@@ -68,4 +68,6 @@ Output Area: Displays the predicted genre based on the input plot summary.
 4.3 Functionality
 The interface uses the trained model and TF-IDF vectorizer to transform the input plot summary and make predictions. It then displays the predicted genre to the user.
 
+![Screenshot 2024-07-04 171341](https://github.com/Sivamedisetti/AspireNex-MOVIE-GENRE-CLASSIFICATION/assets/96729473/4b5ae300-5e5d-4c77-a327-dea5d6e76273)
+
 
