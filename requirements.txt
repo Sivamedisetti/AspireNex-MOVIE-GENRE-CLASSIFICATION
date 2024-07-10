@@ -1,2 +1,2 @@
-joblibst
+joblib
 streamlit
