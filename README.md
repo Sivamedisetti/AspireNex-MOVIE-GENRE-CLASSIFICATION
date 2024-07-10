@@ -1,6 +1,8 @@
 # AspireNex-MOVIE-GENRE-CLASSIFICATION
 
 ## Project Overview
+##live link  https://moviegenreclassification.streamlit.app/
+
 
 **MOVIE-GENRE-CLASSIFICATION** is a machine learning project aimed at classifying movie genres based on plot summaries. The objective is to develop a model that can accurately predict the genre of a movie from its description. The project encompasses several key phases, including data cleaning and preprocessing, model training and optimization, cross-validation, and the creation of a user-friendly interface for genre prediction.
 
